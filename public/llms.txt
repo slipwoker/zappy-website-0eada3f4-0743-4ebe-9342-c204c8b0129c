@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Unlock the full tcc course catalog and discover thousands of options tailored for you. Browse smarter, plan better, and take action today with my-project.
+
+### Features
+https://example.com/features
+Dive into cutting-edge features built around the ccac course catalog experience. Filter, compare, and organize mail order catalogues with ease — all in one powerful platform.
+
+### About
+https://example.com/about
+Learn how my-project was built to simplify the tcc course catalog search for every learner. Our mission drives smarter access to catalogs and better educational outcomes for all.
+
+### Contact
+https://example.com/contact
+Have questions about the ccac course catalog or mail order catalogues? Reach our team now and get personalized guidance to find exactly what you need through my-project.
+
+### Products
+https://example.com/products
+Our Products - my-project
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - my-project
+
+### Category
+https://example.com/category/:slug
+Products - my-project
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
